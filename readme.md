@@ -59,14 +59,13 @@
     brew install ffmpeg
 ```
 #### For Windows:
-
- 1.Download FFmpeg:
+     1.Download FFmpeg:
         Go to the FFmpeg official website and download the Windows build.
 
-2.Extract the downloaded ZIP file:
+    2.Extract the downloaded ZIP file:
         Extract the files to a folder (e.g., C:\ffmpeg).
 
-3.Add FFmpeg to your PATH:
+    3.Add FFmpeg to your PATH:
         Open System Properties > Advanced > Environment Variables.
         Under "System variables," find the Path variable, and click "Edit."
         Add the path to the bin folder inside the FFmpeg folder (e.g., C:\ffmpeg\bin).
