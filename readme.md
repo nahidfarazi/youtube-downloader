@@ -5,7 +5,7 @@
 ```sh
     yt-dlp --version
 ```
-### if no version return , follow the step
+#### if no version return , ### follow the step
 ```sh
     sudo rm /usr/lib/python3.*/EXTERNALLY-MANAGED
 ```
