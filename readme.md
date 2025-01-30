@@ -1,4 +1,6 @@
-Install yt-dlp locally:
+# youtube video downloader 
+
+
 ### make sure yt-dlp install
 ```sh
     yt-dlp --version
