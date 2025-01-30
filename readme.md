@@ -36,28 +36,27 @@ Install yt-dlp locally:
     yt-dlp --version
 ```
 
-### For Linux (Ubuntu/Debian-based systems)
-
-#### Install FFmpeg:
+### Install FFmpeg:
+#### For Linux (Ubuntu/Debian-based systems)
 ```sh
     sudo apt install ffmpeg
 ```
-### Verify FFmpeg installation:
+#### Verify FFmpeg installation:
 ```sh
     ffmpeg -version
 ```
 ##### If FFmpeg is installed successfully, you'll see the version details printed to the terminal.
 
-### For macOS:
+#### For macOS:
 ```sh
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### Install FFmpeg via Homebrew:
+#### Install FFmpeg via Homebrew:
 
 ```sh
     brew install ffmpeg
 ```
-### For Windows:
+#### For Windows:
 
  1.Download FFmpeg:
         Go to the FFmpeg official website and download the Windows build.
