@@ -15,7 +15,6 @@ Install yt-dlp locally:
 ```
 
 ## if don't install use,alter native way
- ### aler naive
 ```sh
     python3 -m venv .venv
 ```
@@ -60,15 +59,22 @@ Install yt-dlp locally:
 ```
 ### For Windows:
 
-####  Download FFmpeg:
+ 1.Download FFmpeg:
         Go to the FFmpeg official website and download the Windows build.
 
-#####  Extract the downloaded ZIP file:
+2.Extract the downloaded ZIP file:
         Extract the files to a folder (e.g., C:\ffmpeg).
 
-#####  Add FFmpeg to your PATH:
+3.Add FFmpeg to your PATH:
         Open System Properties > Advanced > Environment Variables.
         Under "System variables," find the Path variable, and click "Edit."
         Add the path to the bin folder inside the FFmpeg folder (e.g., C:\ffmpeg\bin).
 
 
+#### now install app:
+    git clone https://github.com/nahidfarazi/youtube-downloader/
+    cd youtube-downloader
+#### download command for video :
+    ./yd download "link" -r 1080
+#### download command for audio :
+    ./yd audio "link"    
