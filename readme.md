@@ -60,7 +60,7 @@
 ```
 #### For Windows:
      1.Download FFmpeg:
-        Go to the [`FFmpeg official website`]("https://www.ffmpeg.org/download.html#build-windows") and download the Windows build.
+        Go to the [`FFmpeg official website`](https://www.ffmpeg.org/download.html#build-windows) and download the Windows build.
 
     2.Extract the downloaded ZIP file:
         Extract the files to a folder (e.g., C:\ffmpeg).
