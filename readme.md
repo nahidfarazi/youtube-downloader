@@ -74,7 +74,9 @@
 
 #### now install app:
     git clone https://github.com/nahidfarazi/youtube-downloader/
+   ```sh
     cd youtube-downloader
+   ```
 #### download command for video :
     ./yd download "link" -r 1080
 #### download command for audio :
